@@ -24,3 +24,7 @@ I am contributing to this repository as part of our Open Source Software Chapter
 - Create a pull request to propose changes and collaborate with other developers.
 
 Working with GitHub helps us understand how open-source developers collaborate through branches, commits, pull requests, and code reviews.
+
+Run: python tools/hello_tabulate.py --name <first-name>
+
+Run: python tools/hello_tabulate.py --name <first-name>
